@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/foodhub/static/css/main.073c9b0a.css",
-    "main.js": "/foodhub/static/js/main.b9ca3fea.js",
+    "main.css": "/foodhub/static/css/main.0f68bc84.css",
+    "main.js": "/foodhub/static/js/main.145b43ab.js",
     "static/js/787.28db15b1.chunk.js": "/foodhub/static/js/787.28db15b1.chunk.js",
-    "static/media/logo.svg": "/foodhub/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/meals.jpg": "/foodhub/static/media/meals.2971f633fc1382581cbf.jpg",
     "index.html": "/foodhub/index.html",
-    "main.073c9b0a.css.map": "/foodhub/static/css/main.073c9b0a.css.map",
-    "main.b9ca3fea.js.map": "/foodhub/static/js/main.b9ca3fea.js.map",
+    "static/media/cartIcon.svg": "/foodhub/static/media/cartIcon.96982ad43d6ff81eaa217a2489592864.svg",
+    "main.0f68bc84.css.map": "/foodhub/static/css/main.0f68bc84.css.map",
+    "main.145b43ab.js.map": "/foodhub/static/js/main.145b43ab.js.map",
     "787.28db15b1.chunk.js.map": "/foodhub/static/js/787.28db15b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b9ca3fea.js"
+    "static/css/main.0f68bc84.css",
+    "static/js/main.145b43ab.js"
   ]
 }
